@@ -2,10 +2,10 @@
 The production build is hosted using firebase at : https://clone-83bfa.web.app/
 
 ##Home page
-https://github.com/rrjkr32/Google-clone/blob/main/GC1.PNG
+![alt text](https://github.com/rrjkr32/Google-clone/blob/main/GC1.PNG)
 
 ##Search page
-https://github.com/rrjkr32/Google-clone/blob/main/GC1.PNG
+![alt text](https://github.com/rrjkr32/Google-clone/blob/main/GC1.PNG)
 
 ## Available Scripts to run the dev project after cloning locally
 
