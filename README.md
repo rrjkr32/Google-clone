@@ -1,11 +1,11 @@
 # Google clone using ReactJs
 The production build is hosted using firebase at : https://clone-83bfa.web.app/
 
-##Home page
+## Home page
 ![alt text](https://github.com/rrjkr32/Google-clone/blob/main/GC1.PNG)
 
-##Search page
-![alt text](https://github.com/rrjkr32/Google-clone/blob/main/GC1.PNG)
+## Search page
+![alt text](https://github.com/rrjkr32/Google-clone/blob/main/GC2.PNG)
 
 ## Available Scripts to run the dev project after cloning locally
 
